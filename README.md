@@ -17,16 +17,19 @@ This is a simple Node.js Express application with three routes: `/name`, `/hobby
 - cd InterTechHub_Backend
 
 2. Install dependencies:
-  - npm install
+
+- npm install
 
 3. after installing successfully the dependency start the server as dev mode using nodemode
    npm run dev or npm start
 
 4. Access the routes in your browser:
-   http://localhost:3000/name
-   http://localhost:3000/dream
-   http://localhost:3000/hobby
+
+   - http://localhost:3000/name
+   - http://localhost:3000/dream
+   - http://localhost:3000/hobby
 
    Technologies Used
-   Node.js
-   Express
+
+- Node.js
+- Express
