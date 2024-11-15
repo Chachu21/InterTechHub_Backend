@@ -1,7 +1,5 @@
 # InterTechHub_Backend
 
-# Motivational Routes
-
 This is a simple Node.js Express application with three routes: `/name`, `/hobby` and `/dream` .
 
 ## Routes
@@ -13,11 +11,13 @@ This is a simple Node.js Express application with three routes: `/name`, `/hobby
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/Chachu21/InterTechHub_Backend.git
-   cd InterTechHub_Backend
+
+- git clone https://github.com/Chachu21/InterTechHub_Backend.git
+
+- cd InterTechHub_Backend
 
 2. Install dependencies:
-   npm install
+  - npm install
 
 3. after installing successfully the dependency start the server as dev mode using nodemode
    npm run dev or npm start
